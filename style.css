@@ -21,7 +21,7 @@ h1{
 }
 
 hr {
-	border-color: #92EFA2;
+	border-color: #1A1F20;
 	border-width: 2px;
 	max-width: 70px;
 }
@@ -44,8 +44,8 @@ hr {
 }
 .btn-primary:hover {
    
-   background-color: #92DE7E;
-   border-color: #92DE7E;
+   background-color: #141618;
+   border-color: #141618;
    border-width: 5px;
    
 
